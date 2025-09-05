@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tecnologies:</h2>
+<h2 align="left">Technologies:</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
   <!-- Top Languages -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Maximo&layout=compact&hide_border=false&bg_color=0D1117&title_color=FF7F50&text_color=C9D1D9" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Maximo&layout=compact&langs_count=20&hide_border=false&bg_color=0D1117&title_color=FF7F50&text_color=C9D1D9" 
        height="150" 
        alt="languages graph" 
   />
@@ -52,7 +52,7 @@
   <!-- Activity Graph -->
   <img 
        src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-Maximo&radius=20&theme=github-dark&area=true&order=5" 
-       height="150" 
+       height="250" 
        alt="activity-graph graph"  
   />
 </div>
