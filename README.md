@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Java, Python, C, and Database Management.<br>🎯 Goals: I want to be a successful professional in the technology field.</p>
+<p align="left">I'm a Systems Analysis student passionate about learning data science and exploring the world of data. Welcome to my profile!</p>
 
 ###
 
