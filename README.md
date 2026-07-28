@@ -26,33 +26,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-<div align="center">
-
-  <!-- Stats -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Gustavo-Maximo&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=FF7F50&text_color=C9D1D9&icon_color=58A6FF" 
-       height="150" 
-       alt="stats graph" 
-  />
-
-  <!-- Top Languages -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Maximo&layout=compact&langs_count=20&hide_border=false&bg_color=0D1117&title_color=FF7F50&text_color=C9D1D9" 
-       height="150" 
-       alt="languages graph" 
-  />
-
-</div>
-
-###
-
-<div align="center">
-  <!-- Activity Graph -->
-  <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-Maximo&radius=20&theme=github-dark&area=true&order=5" 
-       height="250" 
-       alt="activity-graph graph"  
-  />
-</div>
